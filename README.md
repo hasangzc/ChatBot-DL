@@ -10,4 +10,6 @@ You can access the details about the model from the model.py file.
 You can move the bot to discord by running the discordbot.py file :)
 
 Some screenshots from Discord:
-<img src="sc/sc5.png" width=100 height=100>
+
+
+<img src="sc/sc5.png" width=200 height=200>
