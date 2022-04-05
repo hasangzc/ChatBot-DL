@@ -13,5 +13,5 @@ Some screenshots from Discord:
 
 
 <img src="sc/sc5.png" width=400 height=150>
-<img src="sc/sc1.png" width=400 height=200>
+
 <img src="sc/sc4.png" width=400 height=150>
