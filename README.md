@@ -12,4 +12,4 @@ You can move the bot to discord by running the discordbot.py file :)
 Some screenshots from Discord:
 
 
-<img src="sc/sc5.png" width=200 height=200>
+<img src="sc/sc5.png" width=400 height=200>
